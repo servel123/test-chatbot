@@ -12,6 +12,13 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+// Kiểm tra nếu đổi API key thì xóa assistant ID
+using (var scope = app.Services.CreateScope())
+{
+    var openAi = scope.ServiceProvider.GetRequiredService<OpenAiService>();
+    await openAi.EnsureValidAssistantFileAsync();
+}
+
 // Swagger UI
 if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 {

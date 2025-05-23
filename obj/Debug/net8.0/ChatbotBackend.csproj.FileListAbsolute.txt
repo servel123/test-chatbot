@@ -1,10 +1,3 @@
-E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.csproj.AssemblyReference.cache
-E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.GeneratedMSBuildEditorConfig.editorconfig
-E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.AssemblyInfoInputs.cache
-E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.AssemblyInfo.cs
-E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.csproj.CoreCompileInputs.cache
-E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.MvcApplicationPartsAssemblyInfo.cs
-E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.MvcApplicationPartsAssemblyInfo.cache
 E:\chatbot\ChatbotBackend\bin\Debug\net8.0\appsettings.Development.json
 E:\chatbot\ChatbotBackend\bin\Debug\net8.0\appsettings.json
 E:\chatbot\ChatbotBackend\bin\Debug\net8.0\Data\courses.json
@@ -21,6 +14,14 @@ E:\chatbot\ChatbotBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\chatbot\ChatbotBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\chatbot\ChatbotBackend\bin\Debug\net8.0\System.ClientModel.dll
 E:\chatbot\ChatbotBackend\bin\Debug\net8.0\System.Memory.Data.dll
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.csproj.AssemblyReference.cache
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.AssemblyInfoInputs.cache
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.AssemblyInfo.cs
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.csproj.CoreCompileInputs.cache
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.MvcApplicationPartsAssemblyInfo.cs
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.MvcApplicationPartsAssemblyInfo.cache
+E:\chatbot\ChatbotBackend\obj\Debug\net8.0\ChatbotBackend.sourcelink.json
 E:\chatbot\ChatbotBackend\obj\Debug\net8.0\staticwebassets.build.json
 E:\chatbot\ChatbotBackend\obj\Debug\net8.0\staticwebassets.development.json
 E:\chatbot\ChatbotBackend\obj\Debug\net8.0\staticwebassets\msbuild.ChatbotBackend.Microsoft.AspNetCore.StaticWebAssets.props
