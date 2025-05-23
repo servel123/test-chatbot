@@ -62,8 +62,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T13:43:48.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T13:43:48.92Z"
             },
             {
               "$type": "Document",
@@ -85,7 +84,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\chatbot\\ChatbotBackend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-22T13:40:58.484Z",
               "EditorCaption": ""
@@ -100,8 +99,7 @@
               "RelativeToolTip": "Controller\\OpenAiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:40:20.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T13:40:20.963Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Services\\OpenAiService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:32:53.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T13:32:53.463Z"
             },
             {
               "$type": "Document",
