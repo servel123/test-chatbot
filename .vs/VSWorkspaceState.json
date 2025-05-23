@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controller",
+    "\\Data",
+    "\\Properties",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Services\\OpenAiService.cs",
+  "PreviewInSolutionExplorer": false
+}

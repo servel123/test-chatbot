@@ -1,0 +1,14 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Khoá học AI cơ bản",
+    "teacher": "Nguyễn Văn A",
+    "sessions": [
+      {
+        "id": 1,
+        "topic": "Giới thiệu AI",
+        "date": "2025-05-01"
+      }
+    ]
+  }
+]
