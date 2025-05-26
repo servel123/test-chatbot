@@ -169,7 +169,8 @@ namespace ChatbotBackend.Services
                         content[0].TryGetProperty("text", out var textObj) &&
                         textObj.TryGetProperty("value", out var valueObj))
                     {
-                        var reply = valueObj.GetString();
+                         var rawText = valueObj.GetString();
+                         var reply = Regex.Replace(rawText ?? "", @"[【\[][^【\[\]]*?†[^】\[\]]*?[】\]]", "").Trim();
 
                         if (userInput.Trim().ToLower() == "tạm biệt")
                         {
